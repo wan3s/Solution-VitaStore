@@ -3631,7 +3631,7 @@
       "x": 295.8802382301142,
       "y": 1307.788372986874,
       "width": 1259.389655319208,
-      "height": 1681.6467853463885,
+      "height": 1648.694039359201,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -3647,11 +3647,11 @@
         "type": 3
       },
       "seed": 1157935318,
-      "version": 657,
-      "versionNonce": 67257868,
+      "version": 665,
+      "versionNonce": 91273012,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780675851129,
+      "updated": 1780676677868,
       "link": null,
       "locked": false
     },
@@ -3762,8 +3762,8 @@
     {
       "id": "-9wx1siZ7npYu2hdvCV2P",
       "type": "rectangle",
-      "x": 368.66950047173844,
-      "y": 1442.2457319546088,
+      "x": 377.6190573625925,
+      "y": 1440.4154803366962,
       "width": 146.1539914746045,
       "height": 52.94715223348313,
       "angle": 0,
@@ -3781,8 +3781,8 @@
         "type": 3
       },
       "seed": 1671911574,
-      "version": 649,
-      "versionNonce": 1812656470,
+      "version": 661,
+      "versionNonce": 1684977676,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3790,15 +3790,15 @@
           "id": "MsNbD7FsLRW7Rgf3RQYMY"
         }
       ],
-      "updated": 1780605356464,
+      "updated": 1780676671783,
       "link": null,
       "locked": false
     },
     {
       "id": "MsNbD7FsLRW7Rgf3RQYMY",
       "type": "text",
-      "x": 375.47456169976334,
-      "y": 1458.7193080713503,
+      "x": 384.4241185906174,
+      "y": 1456.8890564534377,
       "width": 132.5438690185547,
       "height": 20,
       "angle": 0,
@@ -3814,11 +3814,11 @@
       "index": "b0u",
       "roundness": null,
       "seed": 94098902,
-      "version": 788,
-      "versionNonce": 395204246,
+      "version": 800,
+      "versionNonce": 1483986572,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780605356464,
+      "updated": 1780676671783,
       "link": null,
       "locked": false,
       "text": "Продажа товаров",
@@ -3839,7 +3839,7 @@
       "width": 146.1539914746045,
       "height": 50,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -3853,8 +3853,8 @@
         "type": 3
       },
       "seed": 1226377046,
-      "version": 682,
-      "versionNonce": 1065882698,
+      "version": 683,
+      "versionNonce": 2109687092,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3862,7 +3862,7 @@
           "id": "jHUjsi2a1VyxCOAavbYgE"
         }
       ],
-      "updated": 1780605358467,
+      "updated": 1780676287191,
       "link": null,
       "locked": false
     },
@@ -3874,7 +3874,7 @@
       "width": 71.87193298339844,
       "height": 40,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -3886,11 +3886,11 @@
       "index": "b0w",
       "roundness": null,
       "seed": 376024214,
-      "version": 828,
-      "versionNonce": 745711818,
+      "version": 829,
+      "versionNonce": 883546124,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780605358367,
+      "updated": 1780676287191,
       "link": null,
       "locked": false,
       "text": "Доставка\nтоваров",
@@ -3911,7 +3911,7 @@
       "width": 146.1539914746045,
       "height": 55.6326418443666,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -3925,8 +3925,8 @@
         "type": 3
       },
       "seed": 2131839318,
-      "version": 704,
-      "versionNonce": 1145197322,
+      "version": 705,
+      "versionNonce": 1122928692,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3934,7 +3934,7 @@
           "id": "epZ-MI62a1H2Gy21QvY3S"
         }
       ],
-      "updated": 1780605361169,
+      "updated": 1780676291273,
       "link": null,
       "locked": false
     },
@@ -3946,7 +3946,7 @@
       "width": 79.45591735839844,
       "height": 40,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -3958,11 +3958,11 @@
       "index": "b0y",
       "roundness": null,
       "seed": 671723158,
-      "version": 885,
-      "versionNonce": 995582410,
+      "version": 886,
+      "versionNonce": 256132364,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780605361169,
+      "updated": 1780676291273,
       "link": null,
       "locked": false,
       "text": "Бонусная\nпрограмма",
@@ -3983,7 +3983,7 @@
       "width": 146.1539914746045,
       "height": 50,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -3997,8 +3997,8 @@
         "type": 3
       },
       "seed": 1202304022,
-      "version": 780,
-      "versionNonce": 1658151638,
+      "version": 781,
+      "versionNonce": 1097403188,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4006,7 +4006,7 @@
           "id": "iuUynAVuGDlcNWGNb8hyE"
         }
       ],
-      "updated": 1780605363538,
+      "updated": 1780676293006,
       "link": null,
       "locked": false
     },
@@ -4018,7 +4018,7 @@
       "width": 87.53593444824219,
       "height": 40,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -4030,11 +4030,11 @@
       "index": "b10",
       "roundness": null,
       "seed": 2143732054,
-      "version": 970,
-      "versionNonce": 175904982,
+      "version": 971,
+      "versionNonce": 770142732,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780605363203,
+      "updated": 1780676293006,
       "link": null,
       "locked": false,
       "text": "Проведение\nакций",
@@ -4122,7 +4122,7 @@
       "width": 146.1539914746045,
       "height": 66.59052550036309,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -4136,8 +4136,8 @@
         "type": 3
       },
       "seed": 1092655498,
-      "version": 1053,
-      "versionNonce": 1289816332,
+      "version": 1054,
+      "versionNonce": 1987843124,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4145,7 +4145,7 @@
           "id": "_rWBjP7hoOx0Io0Scs7hW"
         }
       ],
-      "updated": 1780675874764,
+      "updated": 1780676302806,
       "link": null,
       "locked": false
     },
@@ -4157,7 +4157,7 @@
       "width": 135.02386474609375,
       "height": 40,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -4169,11 +4169,11 @@
       "index": "b14",
       "roundness": null,
       "seed": 1101584458,
-      "version": 1290,
-      "versionNonce": 7604108,
+      "version": 1291,
+      "versionNonce": 1311078668,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780675874764,
+      "updated": 1780676302806,
       "link": null,
       "locked": false,
       "text": "Отправка данных\nв ERP",
@@ -4266,7 +4266,7 @@
       "width": 146.1539914746045,
       "height": 66.59052550036309,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -4280,8 +4280,8 @@
         "type": 3
       },
       "seed": 1206852502,
-      "version": 919,
-      "versionNonce": 1545227828,
+      "version": 920,
+      "versionNonce": 257871412,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4289,7 +4289,7 @@
           "id": "HbEezyhvWnJQw997ZHLri"
         }
       ],
-      "updated": 1780675327836,
+      "updated": 1780676295823,
       "link": null,
       "locked": false
     },
@@ -4301,7 +4301,7 @@
       "width": 118.75189208984375,
       "height": 40,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -4313,11 +4313,11 @@
       "index": "b18",
       "roundness": null,
       "seed": 838023382,
-      "version": 1174,
-      "versionNonce": 1973053364,
+      "version": 1175,
+      "versionNonce": 895704844,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780675327836,
+      "updated": 1780676295823,
       "link": null,
       "locked": false,
       "text": "Обновление\nсписка товаров",
@@ -4673,12 +4673,12 @@
     {
       "id": "jr5VNXjAE-Pqv2pzPHwXF",
       "type": "rectangle",
-      "x": 371.552008663017,
-      "y": 2043.6029165858054,
+      "x": 371.7177416003591,
+      "y": 2043.6079387960276,
       "width": 146.1539914746045,
       "height": 70,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -4692,8 +4692,8 @@
         "type": 3
       },
       "seed": 749257140,
-      "version": 1007,
-      "versionNonce": 193187212,
+      "version": 1009,
+      "versionNonce": 1879741196,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4701,19 +4701,19 @@
           "id": "xeDngzU8W4-HMt_Uke2kV"
         }
       ],
-      "updated": 1780676142463,
+      "updated": 1780676313031,
       "link": null,
       "locked": false
     },
     {
       "id": "xeDngzU8W4-HMt_Uke2kV",
       "type": "text",
-      "x": 402.4770421200458,
-      "y": 2048.6029165858054,
+      "x": 402.6427750573879,
+      "y": 2048.6079387960276,
       "width": 84.30392456054688,
       "height": 60,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -4725,11 +4725,11 @@
       "index": "b1M",
       "roundness": null,
       "seed": 588147508,
-      "version": 1290,
-      "versionNonce": 1464482828,
+      "version": 1292,
+      "versionNonce": 1508176820,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780676142463,
+      "updated": 1780676313031,
       "link": null,
       "locked": false,
       "text": "Интеграция\nлокальных\nсерверов ",
@@ -4745,12 +4745,12 @@
     {
       "id": "TnlskM5Lrgu5X_DD7Oj-n",
       "type": "rectangle",
-      "x": 535.2635262146516,
+      "x": 535.4292591519937,
       "y": 2041.4193195610596,
       "width": 146.1539914746045,
       "height": 70,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -4764,8 +4764,8 @@
         "type": 3
       },
       "seed": 1705567924,
-      "version": 1068,
-      "versionNonce": 1832835724,
+      "version": 1070,
+      "versionNonce": 671316404,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4773,19 +4773,19 @@
           "id": "BrmC6Ncd_erh_DiHKA_Ll"
         }
       ],
-      "updated": 1780676142463,
+      "updated": 1780676314748,
       "link": null,
       "locked": false
     },
     {
       "id": "BrmC6Ncd_erh_DiHKA_Ll",
       "type": "text",
-      "x": 550.9245826208992,
+      "x": 551.0903155582413,
       "y": 2056.4193195610596,
       "width": 114.83187866210938,
       "height": 40,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -4797,11 +4797,11 @@
       "index": "b1O",
       "roundness": null,
       "seed": 1925312564,
-      "version": 1413,
-      "versionNonce": 1209772300,
+      "version": 1415,
+      "versionNonce": 1733372812,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780676142463,
+      "updated": 1780676314748,
       "link": null,
       "locked": false,
       "text": "Учет товаров в\nобщем списке",
@@ -4961,7 +4961,7 @@
     {
       "id": "w500VgpAFDJ_kVf67YJyY",
       "type": "rectangle",
-      "x": 549.8392270763372,
+      "x": 550.0782803488809,
       "y": 2289.174203459755,
       "width": 146.1539914746045,
       "height": 66.59052550036309,
@@ -4980,8 +4980,8 @@
         "type": 3
       },
       "seed": 1112116,
-      "version": 973,
-      "versionNonce": 614937740,
+      "version": 974,
+      "versionNonce": 513599796,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4989,14 +4989,14 @@
           "id": "nR4RSKjAzZ4pq0Jn-afwT"
         }
       ],
-      "updated": 1780676142463,
+      "updated": 1780676651128,
       "link": null,
       "locked": false
     },
     {
       "id": "nR4RSKjAzZ4pq0Jn-afwT",
       "type": "text",
-      "x": 562.7662594347332,
+      "x": 563.0053127072769,
       "y": 2297.4694662099364,
       "width": 120.2999267578125,
       "height": 50,
@@ -5013,11 +5013,11 @@
       "index": "b1ZV",
       "roundness": null,
       "seed": 293607860,
-      "version": 167,
-      "versionNonce": 1701364492,
+      "version": 168,
+      "versionNonce": 588358324,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1780676142463,
+      "updated": 1780676651128,
       "link": null,
       "locked": false,
       "text": "Разработка\nновых акций",
@@ -5969,7 +5969,7 @@
       "width": 211.38244604722385,
       "height": 70,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -5983,8 +5983,8 @@
         "type": 3
       },
       "seed": 1625101236,
-      "version": 1440,
-      "versionNonce": 1029568564,
+      "version": 1441,
+      "versionNonce": 1996476724,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5992,7 +5992,7 @@
           "id": "kTkswdjNZtKmveOkbDdwn"
         }
       ],
-      "updated": 1780676118997,
+      "updated": 1780676299323,
       "link": null,
       "locked": false
     },
@@ -6004,7 +6004,7 @@
       "width": 186.1758270263672,
       "height": 60,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -6016,11 +6016,11 @@
       "index": "b24",
       "roundness": null,
       "seed": 820542772,
-      "version": 1836,
-      "versionNonce": 81318324,
+      "version": 1837,
+      "versionNonce": 1451756556,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780676118997,
+      "updated": 1780676299323,
       "link": null,
       "locked": false,
       "text": "Накопление отложенных\nсписаний/начислений\nбонусов",
@@ -6246,6 +6246,78 @@
       "verticalAlign": "middle",
       "containerId": "xdCSDDCLyAQ_-aEW35j-N",
       "originalText": "Обучение продавцов новых магазинов",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Y-OviMchFIxtpBKbrZq3D",
+      "type": "rectangle",
+      "x": 954.2951125537127,
+      "y": 2286.9671576852816,
+      "width": 146.1539914746045,
+      "height": 66.59052550036309,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2B",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 906223500,
+      "version": 1036,
+      "versionNonce": 1797200396,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "_-aWSvxNchqd2-z1fHOlE"
+        }
+      ],
+      "updated": 1780676653712,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "_-aWSvxNchqd2-z1fHOlE",
+      "type": "text",
+      "x": 978.3321455224602,
+      "y": 2307.762420435463,
+      "width": 98.07992553710938,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2C",
+      "roundness": null,
+      "seed": 469241356,
+      "version": 247,
+      "versionNonce": 1773251980,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1780676659568,
+      "link": null,
+      "locked": false,
+      "text": "Маркетинг",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "Y-OviMchFIxtpBKbrZq3D",
+      "originalText": "Маркетинг",
       "autoResize": true,
       "lineHeight": 1.25
     }

@@ -24,8 +24,9 @@ System_Boundary(storeEdge, "Store Edge (магазин)") {
     Container_Ext(terminal, "Payment terminal", "", "Сбербанк, Альфа, Ingenico, Verifone")
     Container_Ext(fiscalPrinter, "Fiscal Printer", "", "Аппарат ККТ (COM-port)")
     Container(paymentsProducer, "Payments producer switcher", "", "Выбор канала отправки платежей")
-    ContainerDb(paymentsQueue, "Kafka", "", "Очередь платежей") 
 
+    ContainerDb(paymentsQueue, "Kafka", "", "Очередь платежей") 
+    ContainerDb(storeEdgePricesCache, "Redis", "", "Кэш цен") 
 }
 
 System_Boundary(cloudBackend, "Облачный бэкенд") {
@@ -47,6 +48,7 @@ Rel_U(cashier, webPOS, "Работа с кассой", "UI")
 Rel(webPOS, hal, "Работа с железом", "Internal Call")
 Rel(webPOS, apiGateway, "Запрос цен", "https")
 Rel(webPOS, paymentsProducer, "Отправка платежей", "Internal Call")
+Rel(webPOS, storeEdgePricesCache, "Кэширует цены", "Internal Call")
 Rel(paymentsProducer, apiGateway, "Синхронная отправка платежей (приоритетный канал)", "https")
 Rel(paymentsProducer, paymentsQueue, "Асинхронная отправка платежей (запасной канал)", "Internal Call")
 
